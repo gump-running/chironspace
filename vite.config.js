@@ -12,7 +12,7 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
-  }
+  },
   //add by jinbao start
   base:'./'
   //add by jinbao end
