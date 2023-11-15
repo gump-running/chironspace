@@ -14,6 +14,6 @@ export default defineConfig({
     }
   }
   //add by jinbao start
-  base:'/chironspace/'
+  base:'./'
   //add by jinbao end
 })
